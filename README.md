@@ -1,1 +1,1 @@
-![Link](https://product-barcode.vercel.app/)
+https://product-barcode.vercel.app/
